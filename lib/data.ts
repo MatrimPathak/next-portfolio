@@ -4,7 +4,7 @@ import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
 import portfolio from "@/public/portfolio.png";
 import carePulse from "@/public/carePulse.png";
-import wordanalyticsImg from "@/public/wordanalytics.png";
+import flowboard from "@/public/flowboard.png";
 
 export const links = [
 	{
@@ -68,20 +68,20 @@ export const projectsData = [
 		tags: ["React", "Next.js", "Firebase", "TailwindCSS", "Framer Motion"],
 		imageUrl: portfolio,
 	},
-	// {
-	// 	title: "FlowBoard",
-	// 	description:
-	// 		"Developed FlowBoard, a project management app with search, team pages, light/dark mode, and real-time data visualization, using Next.js, Redux, AWS, and PostgreSQL.",
-	// 	tags: [
-	// 		"Next.js",
-	// 		"Redux",
-	// 		"TailwindCSS",
-	// 		"AWS",
-	// 		"PostgreSQL",
-	// 		"Recharts",
-	// 	],
-	// 	imageUrl: wordanalyticsImg,
-	// },
+	{
+		title: "FlowBoard",
+		description:
+			"Developed FlowBoard, a project management app with search, team pages, light/dark mode, and real-time data visualization, using Next.js, Redux, AWS, and PostgreSQL.",
+		tags: [
+			"Next.js",
+			"Redux",
+			"TailwindCSS",
+			"AWS",
+			"PostgreSQL",
+			"Recharts",
+		],
+		imageUrl: flowboard,
+	},
 	{
 		title: "CarePulse",
 		description:
