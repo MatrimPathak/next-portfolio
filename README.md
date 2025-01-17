@@ -154,4 +154,4 @@ This project does not currently have a license. Please contact me if you have an
 ## Contact
 
 For any inquiries, please reach out via the contact form on the website or email me at [your-email@example.com](mailto:your-email@example.com).
->>>>>>> fbaf7b1 (Added Readme.md file and 3rd Project)
+>>>>>>> 8e8b215e24a28971f8f6b0d3dc7c69b7872e44df
