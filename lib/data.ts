@@ -58,6 +58,14 @@ export const experiencesData = [
 		icon: React.createElement(CgWorkAlt),
 		date: "Aug 2023 - Jul 2024",
 	},
+	{
+		title: "Associate Software Engineer",
+		location: "Hyderabad, India",
+		description:
+			"I worked as an Associate Software Engineer at Pegasystems, where I developed full stack applications using ReactJS and PEGA. Collaborated with cross functional teams.",
+		icon: React.createElement(CgWorkAlt),
+		date: "Mar 2025 - Present",
+	},
 ] as const;
 
 export const projectsData = [
